@@ -1,0 +1,3 @@
+# Mentorship Booker
+
+This app is still in development, but the general idea is to build an app where users can book time with a Mentor. A mentor can create their own page describing their services and showing a bookable calendar. Users can book time with a mentor accordingly. Users can become mentors if they'd like and sell their mentorship. The mentor can set what type of event it will be and then the invite will be created.
