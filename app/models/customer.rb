@@ -1,5 +1,5 @@
 class Customer < ApplicationRecord
-    validates :stripe_id presence: true
+    validates :stripe_id, presence: true
     has_many :orders
     before_validation :create_on_stripe, on: :create_on_stripe
     def create_on_stripe
